@@ -1,7 +1,7 @@
 - 👋 Hi, this is Eesha Qureshi!
 - 👀 An undergraduate final year Computer Science student
 - 🌱 I’m currently learning Python|Deep Learning|Neural Networks
-- 💞️ Anime | Programming | Designing (UX/UI)
+- 💞️ Anime | Programming | Travel
 - 📫 Reach via LinkedIn | F18CSC24@shu.edu.pk
 
 <!---
