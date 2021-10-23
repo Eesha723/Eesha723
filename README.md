@@ -1,5 +1,6 @@
 - 👋 Hi, this is Eesha Qureshi!
-- 👀 I'm an undergraduate final year Computer Science student
+- 👀 I'm an undergraduate final year Computer Science student 
+- 🌟 Skilled/Interested in Python, ML, web development, SQL, PHP
 - 🌱 I’m currently learning Python|Deep Learning|Neural Networks
 - 💞️ Anime | Programming | Travel
 - 📫 Reach via LinkedIn | F18CSC24@shu.edu.pk
