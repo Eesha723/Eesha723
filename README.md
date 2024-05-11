@@ -1,9 +1,8 @@
 - 👋 Hi, this is Eesha Qureshi!
-- 👀 Recent Computer Science graduate from The Salim Habib University 
-- 🌟 Skilled/Interested in Python, ML/DL, Data Science, AWS, Docker, web development, SQL, PHP
-- 🌱 I’m currently learning Docker|Kubernetes|Python|Deep Learning|Neural Networks
-- 💞️ Anime | Programming | Travel
-- 📫 Reach via LinkedIn | eesha_qureshi@outlook.com
+- 👀 Recent Computer Science graduate from The Salim Habib University formerly The Barrett Hodgson University
+- 🌟 Skilled Data Analyst with a proven track record in leveraging data to drive strategic business decisions.
+- 🌱 I’m currently learning Data warehousing|Automated WebScraping|Docker|Kubernetes
+- 📫 Reach via LinkedIn https://www.linkedin.com/in/eesha-qureshi-787a1521a/ | Email: eesha_qureshi@outlook.com
 
 <!---
 Eesha723/Eesha723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
